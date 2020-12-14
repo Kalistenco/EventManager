@@ -1,0 +1,26 @@
+.buttonContainer {
+    position: absolute;
+    right: 10%;
+    top: 4.25%;
+}
+
+#button {
+    background-color: white;
+    height: 35px;
+    width: 130px;
+    border-radius: 10px;
+    outline: 10px;
+    margin-top: 0;
+}
+
+.barDashboard {
+    display: block;
+    border: none;
+    height: 3px;
+    background-color: #ff595e;
+    margin: 0px;
+    margin-left: 2%;
+    margin-top: 2%;
+    width: 90%;
+}
+
